@@ -1,0 +1,31 @@
+{
+  "hash": "fce58660",
+  "configHash": "dfb02ccc",
+  "lockfileHash": "f9aa9326",
+  "browserHash": "9cde203a",
+  "optimized": {
+    "vue": {
+      "src": "../../../../../../../ptdc.site/pretendancers.github.io/src/node_modules/.pnpm/vue@3.5.14/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "23e4653d",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/.pnpm/@vue+devtools-api@7.7.6/node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "47f89f89",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../node_modules/.pnpm/@vueuse+core@13.2.0_vue@3.5.14/node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "d9d29a70",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-WMHNCG2D": {
+      "file": "chunk-WMHNCG2D.js"
+    }
+  }
+}
