@@ -71,7 +71,7 @@ export const zh = defineConfig({
 });
 
 const shared = defineConfig({
-  title: "pretendancers",
+  title: zh ? "牛牛开车" : "NiuNiu Drive Car",
   description: "bake keebs with luv",
   // appearance: true,
   lastUpdated: true,
