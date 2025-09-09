@@ -5,4 +5,4 @@
 ## Firmware
 
 update v2025-08-22 
-<a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/firmwares/Cheerz-vial-202503.uf2">niuniu+firmware+vial+250822.7z</a>
+<a href="https://raw.githubusercontent.com/NiuNiuDriveCar/NiuNiuDriveCar.github.io/blob/main/public/niuniu%2Bfirmware%2Bvial%2B250822.7z">niuniu+firmware+vial+250822.7z</a>
