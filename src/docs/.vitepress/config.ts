@@ -19,7 +19,7 @@ function nav(zh: boolean): DefaultTheme.NavItem[] {
         { text: zh ? "不倒翁" : "Poly40", link: link(zh, "/keebs/poly40") },
         { text: zh ? "赞" : "Zan40", link: link(zh, "/keebs/zan40") },
         { text: zh ? "砖" : "Brick40", link: link(zh, "/keebs/brick40") },
-        { text: zh ? "游戏男孩儿" : "Gameboy34", link: link(zh, "/keebs/gameboy34") },
+        { text: zh ? "游戏男孩" : "Gameboy34", link: link(zh, "/keebs/gameboy34") },
         { text: zh ? "菲利斯" : "Felice40", link: link(zh, "/keebs/felice40") },
         { text: zh ? "艾特" : "@40", link: link(zh, "/keebs/at40") },
         { text: zh ? "红杏" : "HX40", link: link(zh, "/keebs/hx40") },
@@ -35,10 +35,10 @@ function nav(zh: boolean): DefaultTheme.NavItem[] {
       text: zh ? "关于" : "About",
       link: link(zh, "/about")
     },
-    {
-      text: zh ? "致谢" : "Credits",
-      link: link(zh, "/credits")
-    },
+    // {
+    //   text: zh ? "致谢" : "Credits",
+    //   link: link(zh, "/credits")
+    // },
   ];
 }
 
@@ -71,8 +71,8 @@ export const zh = defineConfig({
 });
 
 const shared = defineConfig({
-  title: zh ? "牛牛开车" : "NiuNiu Drive Car",
-  description: "bake keebs with luv",
+  title: "NiuNiu Drive Car",
+  description: "",
   // appearance: true,
   lastUpdated: true,
   // metaChunk: true,
@@ -86,7 +86,7 @@ const shared = defineConfig({
     //   provider: "local",
     // },
     footer: {
-      message: "niuniu drive car 2025",
+      message: "Niuniu Drive Car 2025 ｜ Preview",
       copyright: "powered by VitePress",
     },
   },
