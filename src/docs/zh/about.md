@@ -13,7 +13,11 @@ import {
 const coreMembers = [
 	{
 		avatar: '/about/niuniu.jpg',
-		name: 'niuniu',
+		name: '牛牛',
+	},
+	{
+		avatar: '/about/naigai.jpg',
+		name: '奶盖',
 	}
 ]
 </script>

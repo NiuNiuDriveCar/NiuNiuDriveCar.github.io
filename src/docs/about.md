@@ -14,6 +14,10 @@ const coreMembers = [
 	{
 		avatar: '/about/niuniu.jpg',
 		name: 'niuniu',
+	},
+	{
+		avatar: '/about/naigai.jpg',
+		name: 'naigai',
 	}
 ]
 </script>
